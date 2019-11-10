@@ -1,0 +1,14 @@
+{
+    "name": "luiztoni/php-api",
+    "description": "A simple demo for php webapi",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luiz Toni",
+            "email": "luiztoni@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
